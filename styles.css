@@ -1,0 +1,48 @@
+
+#content {
+    width: 100%;
+    max-width: 100%;
+   
+}
+#content p {
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 30px;
+    border: 2px solid #3C1053FF;
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    padding: 14px;
+    background: #DF6589FF;
+    color: #3C1053FF;
+    text-align: center;
+    font-family: lato;
+}
+#content textarea {
+    width: 100%;
+    border: 2px solid #3C1053FF;
+    outline: none;
+    border-radius: 14px;
+    min-height: 140px;
+    background: linear-gradient(rgb(220, 255, 66), rgb(171, 245, 171));
+}
+#content select {
+    margin-left: 60px;
+    margin-bottom: 20px;
+    color: #3C1053FF;
+    letter-spacing: 8px;
+    font-weight: bolder;
+    width: 30%;
+    min-width: 300px;
+    padding: 14px;
+    border: 2px solid #DF6589FF;
+    border-radius: 15px;
+}
+nav img {
+    border-radius: 50%;
+}
+.card-header{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #DF6589FF;
+}
